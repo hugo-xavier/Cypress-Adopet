@@ -1,0 +1,35 @@
+{
+    "usuarios": [
+      {
+        "name": "Doris Smith",
+        "email": "Doris_Smith@hotmail.com",
+        "password": "A1b2C3d4E5"
+      },
+      {
+        "name": "Gilbert Harris",
+        "email": "Gilbert_Harris@gmail.com",
+        "password": "F6g7H8i9J0"
+      },
+      {
+        "name": "Tina Hernandez",
+        "email": "Tina_Hernandez@yahoo.com",
+        "password": "K1l2M3n4O5"
+      },
+      {
+        "name": "Geraldine Hall",
+        "email": "Geraldine_Hall@outlook.com",
+        "password": "P6q7R8s9T0"
+      },
+      {
+        "name": "Vanessa Johnson",
+        "email": "Vanessa_Johnson@gmail.com",
+        "password": "U1v2W3x4Y5"
+      },
+      {
+        "name": "Ronald Martinez",
+        "email": "Ronald_Martinez@hotmail.com",
+        "password": "Z6a7B8c9D0"
+      }
+    ]
+  }
+  
